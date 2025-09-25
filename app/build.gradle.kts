@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.lalo.actividad6"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.lalo.actividad6"
